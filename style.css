@@ -68,7 +68,8 @@ header{
 }
 
 .hero-content h1{
-    mix-blend-mode: hue;
+    mix-blend-mode: difference;
+    opacity: 41%;
     color: #ffff;
     font-size: 18vw;
     line-height: 18vw;
